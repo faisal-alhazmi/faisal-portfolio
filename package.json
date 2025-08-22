@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "framer-motion": "^12.23.12",
+    "lucide-react": "^0.541.0",
+    "qrcode.react": "^4.2.0",
+    "recharts": "^3.1.2"
+  }
+}
